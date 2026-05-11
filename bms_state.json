@@ -96,132 +96,100 @@
       "price": "200.00",
       "status": "3"
     },
-    "PVMF|37510|20260521|RECLINER": {
-      "venue": "PVR: Forum Mall, Kochi",
-      "time": "08:00 AM",
+    "PVLC|38761|20260521|RECLINER ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "06:00 PM",
       "date": "20260521",
-      "cat": "RECLINER",
-      "price": "800.00",
+      "cat": "RECLINER ROWS",
+      "price": "650.00",
+      "status": "3"
+    },
+    "PVLC|38761|20260521|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "06:00 PM",
+      "date": "20260521",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "310.00",
       "status": "2"
     },
-    "PVMF|37510|20260521|ELITE": {
-      "venue": "PVR: Forum Mall, Kochi",
-      "time": "08:00 AM",
+    "PVLC|38761|20260521|PRIME ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "06:00 PM",
       "date": "20260521",
-      "cat": "ELITE",
-      "price": "390.00",
-      "status": "2"
-    },
-    "PVMF|37510|20260521|PRIME": {
-      "venue": "PVR: Forum Mall, Kochi",
-      "time": "08:00 AM",
-      "date": "20260521",
-      "cat": "PRIME",
-      "price": "330.00",
-      "status": "3"
-    },
-    "PVMF|37510|20260521|CLASSIC": {
-      "venue": "PVR: Forum Mall, Kochi",
-      "time": "08:00 AM",
-      "date": "20260521",
-      "cat": "CLASSIC",
-      "price": "270.00",
-      "status": "3"
-    },
-    "PVMF|37515|20260521|LUXE PRIME": {
-      "venue": "PVR: Forum Mall, Kochi",
-      "time": "08:40 AM",
-      "date": "20260521",
-      "cat": "LUXE PRIME",
-      "price": "1400.00",
-      "status": "3"
-    },
-    "PVMF|37515|20260521|LUXE": {
-      "venue": "PVR: Forum Mall, Kochi",
-      "time": "08:40 AM",
-      "date": "20260521",
-      "cat": "LUXE",
-      "price": "1200.00",
-      "status": "3"
-    },
-    "PVMF|37511|20260521|RECLINER": {
-      "venue": "PVR: Forum Mall, Kochi",
-      "time": "11:20 AM",
-      "date": "20260521",
-      "cat": "RECLINER",
-      "price": "800.00",
-      "status": "3"
-    },
-    "PVMF|37511|20260521|ELITE": {
-      "venue": "PVR: Forum Mall, Kochi",
-      "time": "11:20 AM",
-      "date": "20260521",
-      "cat": "ELITE",
-      "price": "390.00",
-      "status": "3"
-    },
-    "PVMF|37511|20260521|PRIME": {
-      "venue": "PVR: Forum Mall, Kochi",
-      "time": "11:20 AM",
-      "date": "20260521",
-      "cat": "PRIME",
-      "price": "330.00",
-      "status": "3"
-    },
-    "PVMF|37511|20260521|CLASSIC": {
-      "venue": "PVR: Forum Mall, Kochi",
-      "time": "11:20 AM",
-      "date": "20260521",
-      "cat": "CLASSIC",
-      "price": "270.00",
-      "status": "3"
-    },
-    "PCVB|17627|20260521|RECLINER": {
-      "venue": "PVR: Oberon Mall, Kochi",
-      "time": "08:10 AM",
-      "date": "20260521",
-      "cat": "RECLINER",
-      "price": "400.00",
+      "cat": "PRIME ROWS",
+      "price": "280.00",
       "status": "1"
     },
-    "PCVB|17627|20260521|CLASSIC PLUS": {
-      "venue": "PVR: Oberon Mall, Kochi",
-      "time": "08:10 AM",
+    "PVLC|38761|20260521|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "06:00 PM",
       "date": "20260521",
-      "cat": "CLASSIC PLUS",
-      "price": "220.00",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "240.00",
+      "status": "3"
+    },
+    "PVLC|38761|20260521|CLASSIC ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "06:00 PM",
+      "date": "20260521",
+      "cat": "CLASSIC ROWS",
+      "price": "200.00",
+      "status": "3"
+    },
+    "PVLC|38762|20260521|RECLINER ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "09:20 PM",
+      "date": "20260521",
+      "cat": "RECLINER ROWS",
+      "price": "650.00",
       "status": "2"
     },
-    "PCVB|17627|20260521|CLASSIC": {
-      "venue": "PVR: Oberon Mall, Kochi",
-      "time": "08:10 AM",
+    "PVLC|38762|20260521|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "09:20 PM",
       "date": "20260521",
-      "cat": "CLASSIC",
-      "price": "190.00",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "310.00",
+      "status": "2"
+    },
+    "PVLC|38762|20260521|PRIME ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "09:20 PM",
+      "date": "20260521",
+      "cat": "PRIME ROWS",
+      "price": "280.00",
+      "status": "1"
+    },
+    "PVLC|38762|20260521|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "09:20 PM",
+      "date": "20260521",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "240.00",
+      "status": "2"
+    },
+    "PVLC|38762|20260521|CLASSIC ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "09:20 PM",
+      "date": "20260521",
+      "cat": "CLASSIC ROWS",
+      "price": "200.00",
       "status": "3"
     },
-    "PCVB|17628|20260521|RECLINER": {
-      "venue": "PVR: Oberon Mall, Kochi",
-      "time": "11:30 AM",
+    "PVLC|38767|20260521|LUXE PRIME": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "10:30 PM",
       "date": "20260521",
-      "cat": "RECLINER",
-      "price": "400.00",
+      "cat": "LUXE PRIME",
+      "price": "700.00",
       "status": "3"
     },
-    "PCVB|17628|20260521|CLASSIC PLUS": {
-      "venue": "PVR: Oberon Mall, Kochi",
-      "time": "11:30 AM",
+    "PVLC|38767|20260521|LUXE": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "10:30 PM",
       "date": "20260521",
-      "cat": "CLASSIC PLUS",
-      "price": "220.00",
-      "status": "3"
-    },
-    "PCVB|17628|20260521|CLASSIC": {
-      "venue": "PVR: Oberon Mall, Kochi",
-      "time": "11:30 AM",
-      "date": "20260521",
-      "cat": "CLASSIC",
-      "price": "190.00",
+      "cat": "LUXE",
+      "price": "650.00",
       "status": "3"
     }
   },
