@@ -1,11 +1,148 @@
 {
-  "shows": {},
+  "shows": {
+    "PVLC|38966|20260516|RECLINER ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "10:05 AM",
+      "date": "20260516",
+      "cat": "RECLINER ROWS",
+      "price": "500.00",
+      "status": "3"
+    },
+    "PVLC|38966|20260516|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "10:05 AM",
+      "date": "20260516",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "270.00",
+      "status": "3"
+    },
+    "PVLC|38966|20260516|PRIME ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "10:05 AM",
+      "date": "20260516",
+      "cat": "PRIME ROWS",
+      "price": "240.00",
+      "status": "3"
+    },
+    "PVLC|38966|20260516|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "10:05 AM",
+      "date": "20260516",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "220.00",
+      "status": "3"
+    },
+    "PVLC|38966|20260516|CLASSIC ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "10:05 AM",
+      "date": "20260516",
+      "cat": "CLASSIC ROWS",
+      "price": "200.00",
+      "status": "3"
+    },
+    "PVLC|38968|20260516|RECLINER ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "04:35 PM",
+      "date": "20260516",
+      "cat": "RECLINER ROWS",
+      "price": "500.00",
+      "status": "3"
+    },
+    "PVLC|38968|20260516|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "04:35 PM",
+      "date": "20260516",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "270.00",
+      "status": "3"
+    },
+    "PVLC|38968|20260516|PRIME ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "04:35 PM",
+      "date": "20260516",
+      "cat": "PRIME ROWS",
+      "price": "240.00",
+      "status": "3"
+    },
+    "PVLC|38968|20260516|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "04:35 PM",
+      "date": "20260516",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "220.00",
+      "status": "3"
+    },
+    "PVLC|38968|20260516|CLASSIC ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "04:35 PM",
+      "date": "20260516",
+      "cat": "CLASSIC ROWS",
+      "price": "200.00",
+      "status": "3"
+    },
+    "PVLC|39001|20260516|LUXE PRIME": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "07:15 PM",
+      "date": "20260516",
+      "cat": "LUXE PRIME",
+      "price": "550.00",
+      "status": "3"
+    },
+    "PVLC|39001|20260516|LUXE": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "07:15 PM",
+      "date": "20260516",
+      "cat": "LUXE",
+      "price": "500.00",
+      "status": "3"
+    },
+    "PVLC|38970|20260516|RECLINER ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "10:40 PM",
+      "date": "20260516",
+      "cat": "RECLINER ROWS",
+      "price": "500.00",
+      "status": "3"
+    },
+    "PVLC|38970|20260516|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "10:40 PM",
+      "date": "20260516",
+      "cat": "EXTRA LEGROOM ROWS",
+      "price": "270.00",
+      "status": "3"
+    },
+    "PVLC|38970|20260516|PRIME ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "10:40 PM",
+      "date": "20260516",
+      "cat": "PRIME ROWS",
+      "price": "240.00",
+      "status": "3"
+    },
+    "PVLC|38970|20260516|CLASSIC PLUS ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "10:40 PM",
+      "date": "20260516",
+      "cat": "CLASSIC PLUS ROWS",
+      "price": "220.00",
+      "status": "3"
+    },
+    "PVLC|38970|20260516|CLASSIC ROWS": {
+      "venue": "PVR: Lulu, Kochi",
+      "time": "10:40 PM",
+      "date": "20260516",
+      "cat": "CLASSIC ROWS",
+      "price": "200.00",
+      "status": "3"
+    }
+  },
   "dates": {
-    "20260514": "BOOKABLE",
-    "20260515": "NOT_OPEN",
-    "20260516": "NOT_OPEN",
-    "20260517": "NOT_OPEN",
-    "20260518": "NOT_OPEN",
+    "20260514": "AVAILABLE",
+    "20260515": "AVAILABLE",
+    "20260516": "BOOKABLE",
+    "20260517": "AVAILABLE",
+    "20260518": "AVAILABLE",
     "20260519": "NOT_OPEN",
     "20260520": "NOT_OPEN"
   }
