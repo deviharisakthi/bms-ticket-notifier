@@ -62,7 +62,7 @@
       "date": "20260516",
       "cat": "RECLINER ROWS",
       "price": "500.00",
-      "status": "1"
+      "status": "0"
     },
     "PVLC|38968|20260516|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Lulu, Kochi",
@@ -70,7 +70,7 @@
       "date": "20260516",
       "cat": "EXTRA LEGROOM ROWS",
       "price": "270.00",
-      "status": "3"
+      "status": "2"
     },
     "PVLC|38968|20260516|PRIME ROWS": {
       "venue": "PVR: Lulu, Kochi",
@@ -86,7 +86,7 @@
       "date": "20260516",
       "cat": "CLASSIC PLUS ROWS",
       "price": "220.00",
-      "status": "3"
+      "status": "2"
     },
     "PVLC|38968|20260516|CLASSIC ROWS": {
       "venue": "PVR: Lulu, Kochi",
@@ -126,7 +126,7 @@
       "date": "20260516",
       "cat": "EXTRA LEGROOM ROWS",
       "price": "270.00",
-      "status": "3"
+      "status": "2"
     },
     "PVLC|38970|20260516|PRIME ROWS": {
       "venue": "PVR: Lulu, Kochi",
