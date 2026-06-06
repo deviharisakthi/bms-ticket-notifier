@@ -1,11 +1,28 @@
 {
-  "shows": {},
+  "shows": {
+    "VMHE|28623|20260607|SCREEN 1": {
+      "venue": "Vanitha Cineplex RGB Laser 4K 3D ATMOS: Edappally",
+      "time": "10:00 PM",
+      "date": "20260607",
+      "cat": "SCREEN 1",
+      "price": "200.00",
+      "status": "3"
+    },
+    "VMHE|28623|20260607|SCREEN1 SOFA": {
+      "venue": "Vanitha Cineplex RGB Laser 4K 3D ATMOS: Edappally",
+      "time": "10:00 PM",
+      "date": "20260607",
+      "cat": "SCREEN1 SOFA",
+      "price": "280.00",
+      "status": "3"
+    }
+  },
   "dates": {
     "20260606": "AVAILABLE",
     "20260607": "BOOKABLE",
     "20260608": "AVAILABLE",
-    "20260609": "NOT_OPEN",
-    "20260610": "NOT_OPEN",
+    "20260609": "AVAILABLE",
+    "20260610": "AVAILABLE",
     "20260611": "NOT_OPEN",
     "20260612": "NOT_OPEN"
   }
